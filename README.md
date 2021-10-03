@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Assessing the Burden of COVID-19 in Developing Countries: Systematic Review, Meta-Analysis, and Public Policy Implications
 
 You can use the [editor on GitHub](https://github.com/LMIC-IFR/lmic-ifr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
