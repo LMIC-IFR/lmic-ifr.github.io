@@ -1,5 +1,7 @@
 ## Assessing the Burden of COVID-19 in Developing Countries: Systematic Review, Meta-Analysis, and Public Policy Implications
 
+_Andrew T Levin, Nana Owusu-Boaitey, Sierra Pugh, Bailey K Fosdick, Anthony B. Zwi, Anup Malani, Satej Soman, Lonni Besançon, Ilya Kashnitsky, Sachin Ganesh, Aloysius McLaughlin, Gayeong Song, Rine Uhm, Gideon Meyerowitz-Katz_
+
 You can use the [editor on GitHub](https://github.com/LMIC-IFR/lmic-ifr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
