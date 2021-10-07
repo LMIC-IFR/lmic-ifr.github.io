@@ -29,4 +29,6 @@ _[Andrew T Levin](https://economics.dartmouth.edu/people/andrew-levin), Nana Owu
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-8.png)
 ### National IFRs
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-9.png)
+### Population IFRs by Location
+![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-10.png)
 
