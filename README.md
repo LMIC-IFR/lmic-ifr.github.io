@@ -22,17 +22,18 @@ Direct links to files and documentation:
 
 ## key figures
 ### Study Locations
-<span> ![](/assets/img/assessingburden-2a.png) ![](/assets/img/assessingburden-2b.png)  </span>
+<span> ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-2a.png) ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-2a.png)  </span>
 
 ### Seroprevalence during the First Wave of the COVID-19 Pandemic
-
+![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-3.png)
 ### Age-Specific Seroprevalence by Location
-
+![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-5.png)
 ### Ratio of Seroprevalence for Older Adults (60+ years) Compared to Younger Adults (18-59 years) 
-
+![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-6.png)
 ### Population IFR for Ages 18 to 65 Years
-
+![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-7.png)
 ### Metaregression Results for Locations with Well-Certified Deaths > 50%
-
+![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-8.png)
 ### Population IFR Forest Plot
+![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-9.png)
 
