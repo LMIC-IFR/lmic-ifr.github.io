@@ -22,7 +22,7 @@ Direct links to files and documentation:
 
 ## key figures
 ### Study Locations
-<span> ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-2a.png) ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-2a.png)  </span>
+<span> ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-2a.png) ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-2b.png)  </span>
 
 ### Seroprevalence during the First Wave of the COVID-19 Pandemic
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-3.png)
