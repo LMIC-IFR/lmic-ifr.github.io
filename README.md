@@ -5,7 +5,7 @@ _[Andrew T Levin](https://economics.dartmouth.edu/people/andrew-levin), Nana Owu
 - [blog post by Gideon explaining findings](https://elemental.medium.com/the-death-rate-of-covid-19-in-developing-countries-cc17a55c73cd)
 - Direct links to our [public Github repository](https://github.com/covid-ifr/assessing-burden) files: (1) [input data](https://github.com/covid-ifr/assessing-burden/tree/main/input_data); (2) [statistical model](https://github.com/covid-ifr/assessing-burden/blob/main/model/ifrEstimation.stan) (3) [model output](https://github.com/covid-ifr/assessing-burden/tree/main/model_output)
 
-## Key Points
+## Highlights
 - Age-specific prevalence and infection fatality rate (IFR) of COVID-19 for developing countries has not been well assessed.
 - Seroprevalence in developing countries (as measured by antibodies against SARS-CoV-2) is markedly higher than in high-income countries but still far short of herd immunity.
 - Seroprevalence among older adults is broadly similar to that of younger age-groups.
