@@ -1,12 +1,16 @@
 _[Andrew T Levin](https://economics.dartmouth.edu/people/andrew-levin), Nana Owusu-Boaitey, Sierra Pugh, [Bailey K Fosdick](https://www.baileyfosdick.com/), [Anthony B. Zwi](https://research.unsw.edu.au/people/professor-anthony-zwi), [Anup Malani](https://www.law.uchicago.edu/faculty/malani), [Satej Soman](https://www.ischool.berkeley.edu/people/satej-soman), [Lonni Besançon](http://lonnibesancon.me/), [Ilya Kashnitsky](https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_dem/ilya_kashnitsky), Sachin Ganesh, Aloysius McLaughlin, Gayeong Song, Rine Uhm, [Gideon Meyerowitz-Katz](https://gidmk.medium.com/about)_
 
-| links | code & data |
-| ----- | ----------- |
-| <ul><li>[medrXiv preprint](https://www.medrxiv.org/content/10.1101/2021.09.29.21264325v1)</li> <li>[blog post by Gideon explaining findings](https://elemental.medium.com/the-death-rate-of-covid-19-in-developing-countries-cc17a55c73cd)</li></ul> | Our code and data are hosted on a [public Github repository](https://github.com/covid-ifr/assessing-burden). <br> Direct links to files and documentation: <ul><li>[input data](https://github.com/covid-ifr/assessing-burden/tree/main/input_data)</li><li>[Stan model](https://github.com/covid-ifr/assessing-burden/blob/main/model/ifrEstimation.stan)</li><li>[model output](https://github.com/covid-ifr/assessing-burden/tree/main/model_output)</li></ul> |
-
-<!-- ### links 
+### links 
 - [medrXiv preprint](https://www.medrxiv.org/content/10.1101/2021.09.29.21264325v1)
-- [blog post by Gideon explaining findings](https://elemental.medium.com/the-death-rate-of-covid-19-in-developing-countries-cc17a55c73cd) -->
+- [blog post by Gideon explaining findings](https://elemental.medium.com/the-death-rate-of-covid-19-in-developing-countries-cc17a55c73cd)
+
+### code and data 
+Our code and data are hosted on a [public Github repository](https://github.com/covid-ifr/assessing-burden).
+Direct links to files and documentation: 
+
+- [input data](https://github.com/covid-ifr/assessing-burden/tree/main/input_data)
+- [Stan model](https://github.com/covid-ifr/assessing-burden/blob/main/model/ifrEstimation.stan)
+- [model output](https://github.com/covid-ifr/assessing-burden/tree/main/model_output)
 
 ### key points
 - Age-specific prevalence and infection fatality rate (IFR) of COVID-19 for developing countries has not been well assessed.
@@ -18,11 +22,3 @@ _[Andrew T Levin](https://economics.dartmouth.edu/people/andrew-levin), Nana Owu
 
 ### key figures
 
-
-<!-- ### code and data 
-Our code and data are hosted on a [public Github repository](https://github.com/covid-ifr/assessing-burden).
-Direct links to files and documentation: 
-
-- [input data](https://github.com/covid-ifr/assessing-burden/tree/main/input_data)
-- [Stan model](https://github.com/covid-ifr/assessing-burden/blob/main/model/ifrEstimation.stan)
-- [model output](https://github.com/covid-ifr/assessing-burden/tree/main/model_output) -->
