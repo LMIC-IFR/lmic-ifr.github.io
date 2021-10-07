@@ -3,19 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.inner { 
+.section { 
   width: 75%;
-}
-
-.body { 
-  color: #000000;
-  font-family: "Helvetica"
-}
-
-p, li { 
-  font-weight: 500 
-}
-
-header h2 { 
-  color: #646464
 }
