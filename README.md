@@ -4,7 +4,7 @@ _[Andrew T Levin](https://sites.dartmouth.edu/alevin), Nana Owusu-Boaitey, Sierr
 - [medrXiv preprint](https://www.medrxiv.org/content/10.1101/2021.09.29.21264325v1)
 - [blog post by Gideon explaining findings](https://elemental.medium.com/the-death-rate-of-covid-19-in-developing-countries-cc17a55c73cd)
 - Direct links to our Github files: (1) [input data](https://github.com/covid-ifr/assessing-burden/tree/main/input_data); (2) [statistical model](https://github.com/covid-ifr/assessing-burden/blob/main/model/ifrEstimation.stan) (3) [model output](https://github.com/covid-ifr/assessing-burden/tree/main/model_output)
-***
+___
 ## Highlights
 - Age-specific prevalence and infection fatality rate (IFR) of COVID-19 for developing countries has not been well assessed.
 - Seroprevalence in developing countries (as measured by antibodies against SARS-CoV-2) is markedly higher than in high-income countries but still far short of herd immunity.
@@ -12,11 +12,10 @@ _[Andrew T Levin](https://sites.dartmouth.edu/alevin), Nana Owusu-Boaitey, Sierr
 - Age-specific IFRs in developing countries are roughly twice those of high-income countries.
 - Population IFR in developing countries with satisfactory death reporting (based on UN/WHO data as of 2016) is ten times higher than in other developing countries.
 - These results underscore the urgency of disseminating vaccines to vulnerable people in developing countries.
-***
+___
 ## Figures
 ### Study Locations
 <span> ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-2a.png) ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-2b.png)  </span>
-
 ### Seroprevalence Map
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-3.png)
 ### Age-Specific Seroprevalence 
