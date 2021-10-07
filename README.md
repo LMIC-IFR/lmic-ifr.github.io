@@ -21,7 +21,7 @@ _[Andrew T Levin](https://economics.dartmouth.edu/people/andrew-levin), Nana Owu
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-3.png)
 ### Age-Specific Seroprevalence 
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-5.png)
-### Seroprevalence of Older vs. Younger Adults
+### Seroprevalence Ratios
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-6.png)
 ### Population IFR (ages 18 to 65)
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-7.png)
