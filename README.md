@@ -14,6 +14,7 @@ _[Andrew T Levin](https://sites.dartmouth.edu/alevin), Nana Owusu-Boaitey, Sierr
 - These results underscore the urgency of disseminating vaccines to vulnerable people in developing countries.
 
 ### Figures
+
 ### Study Locations
 <span> ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-2a.png) ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-2b.png)  </span>
 ### Seroprevalence Map
