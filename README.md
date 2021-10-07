@@ -22,7 +22,7 @@ Direct links to files and documentation:
 
 ## key figures
 ### Study Locations
-<div> ![](assets/img/assessingburden-2a.png) ![](assets/img/assessingburden-2b.png)  </div>
+<span> ![](/assets/img/assessingburden-2a.png) ![](/assets/img/assessingburden-2b.png)  </span>
 
 ### Seroprevalence during the First Wave of the COVID-19 Pandemic
 
