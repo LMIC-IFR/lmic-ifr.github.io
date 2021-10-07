@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: "Assessing the Burden of COVID-19 in Developing Countries"
 description: "Systematic Review, Meta-Analysis, and Public Policy Implications"
+show_downloads: false
