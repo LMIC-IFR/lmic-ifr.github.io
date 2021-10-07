@@ -21,4 +21,18 @@ Direct links to files and documentation:
 - These results underscore the urgency of disseminating vaccines to vulnerable people in developing countries.
 
 ## key figures
+### Study Locations
+<div> ![](assets/img/assessingburden-2a.png) ![](assets/img/assessingburden-2b.png)  </div>
+
+### Seroprevalence during the First Wave of the COVID-19 Pandemic
+
+### Age-Specific Seroprevalence by Location
+
+### Ratio of Seroprevalence for Older Adults (60+ years) Compared to Younger Adults (18-59 years) 
+
+### Population IFR for Ages 18 to 65 Years
+
+### Metaregression Results for Locations with Well-Certified Deaths > 50%
+
+### Population IFR Forest Plot
 
