@@ -4,14 +4,18 @@
 @import "{{ site.theme }}";
 
 .inner { 
-  width: 75%
+  width: 75%;
 }
 
 .body { 
-  color: #000000,
+  color: #000000;
   font-family: "Helvetica"
 }
 
 p { 
   font-weight: 500 
+}
+
+header h2 { 
+  color: #646464
 }
