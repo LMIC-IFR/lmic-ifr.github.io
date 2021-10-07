@@ -17,16 +17,16 @@ _[Andrew T Levin](https://economics.dartmouth.edu/people/andrew-levin), Nana Owu
 ### Study Locations
 <span> ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-2a.png) ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-2b.png)  </span>
 
-### Seroprevalence during the First Wave of the COVID-19 Pandemic
+### Seroprevalence Map
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-3.png)
-### Age-Specific Seroprevalence by Location
+### Age-Specific Seroprevalence 
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-5.png)
-### Ratio of Seroprevalence for Older Adults (60+ years) Compared to Younger Adults (18-59 years) 
+### Seroprevalence Ratio for Older vs. Younger Adults
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-6.png)
-### Population IFR for Ages 18 to 65 Years
+### Population IFR (ages 18 to 65)
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-7.png)
-### Metaregression Results for Locations with Well-Certified Deaths > 50%
+### Metaregression Results
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-8.png)
-### Population IFR Forest Plot
+### National IFRs
 ![](https://raw.githubusercontent.com/covid-ifr/covid-ifr.github.io/main/assets/img/assessingburden-9.png)
 
