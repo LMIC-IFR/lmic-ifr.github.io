@@ -1,9 +1,12 @@
-_[Andrew T Levin](https://sites.dartmouth.edu/alevin), Nana Owusu-Boaitey, Sierra Pugh, [Bailey K Fosdick](https://www.baileyfosdick.com/), [Anthony B. Zwi](https://research.unsw.edu.au/people/professor-anthony-zwi), [Anup Malani](https://www.law.uchicago.edu/faculty/malani), [Satej Soman](https://www.ischool.berkeley.edu/people/satej-soman), [Lonni Besançon](http://lonnibesancon.me/), [Ilya Kashnitsky](https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_dem/ilya_kashnitsky), Sachin Ganesh, Aloysius McLaughlin, Gayeong Song, Rine Uhm, [Gideon Meyerowitz-Katz](https://gidmk.medium.com/about)_
+authors: _[Andrew T Levin](https://sites.dartmouth.edu/alevin), Nana Owusu-Boaitey, Sierra Pugh, [Bailey K Fosdick](https://www.baileyfosdick.com/), [Anthony B. Zwi](https://research.unsw.edu.au/people/professor-anthony-zwi), [Anup Malani](https://www.law.uchicago.edu/faculty/malani), [Satej Soman](https://www.ischool.berkeley.edu/people/satej-soman), [Lonni Besançon](http://lonnibesancon.me/), [Ilya Kashnitsky](https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_dem/ilya_kashnitsky), Sachin Ganesh, Aloysius McLaughlin, Gayeong Song, Rine Uhm, [Gideon Meyerowitz-Katz](https://gidmk.medium.com/about)_
 
 # Links 
 - [MedRxiv preprint](https://www.medrxiv.org/content/10.1101/2021.09.29.21264325v1) of our paper
 - [Medium blog](https://elemental.medium.com/the-death-rate-of-covid-19-in-developing-countries-cc17a55c73cd) about our findings
-- Direct links to our Github files: (1) [input data](https://github.com/covid-ifr/assessing-burden/tree/main/input_data); (2) [statistical model](https://github.com/covid-ifr/assessing-burden/blob/main/model/ifrEstimation.stan) (3) [model output](https://github.com/covid-ifr/assessing-burden/tree/main/model_output)
+- Data and code:
+  - [input data](https://github.com/covid-ifr/assessing-burden/tree/main/input_data)
+  - [statistical model](https://github.com/covid-ifr/assessing-burden/blob/main/model/ifrEstimation.stan)
+  - [model output](https://github.com/covid-ifr/assessing-burden/tree/main/model_output)
 
 # Highlights
 - Age-specific prevalence and infection fatality rate (IFR) of COVID-19 for developing countries has not been well assessed.
