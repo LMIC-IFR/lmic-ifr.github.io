@@ -2,7 +2,7 @@ authors: _[Andrew T Levin](https://sites.dartmouth.edu/alevin), Nana Owusu-Boait
 
 # Links 
 - [MedRxiv preprint](https://www.medrxiv.org/content/10.1101/2021.09.29.21264325v1) of our paper
-- [Medium blog](https://elemental.medium.com/the-death-rate-of-covid-19-in-developing-countries-cc17a55c73cd) about our findings
+- [Medium blog post](https://elemental.medium.com/the-death-rate-of-covid-19-in-developing-countries-cc17a55c73cd) about our findings
 - Data and code:
   - [input data](https://github.com/covid-ifr/assessing-burden/tree/main/input_data)
   - [statistical model](https://github.com/covid-ifr/assessing-burden/blob/main/model/ifrEstimation.stan)
