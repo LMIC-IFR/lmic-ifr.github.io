@@ -11,12 +11,10 @@ authors: _[Andrew T Levin](https://sites.dartmouth.edu/alevin), Nana Owusu-Boait
   * [supplementary material](https://github.com/covid-ifr/assessing-burden/tree/main/appendix_material)
 
 # Highlights
-- Age-specific prevalence and infection fatality rate (IFR) of COVID-19 for developing countries has not been well assessed.
-- Seroprevalence in developing countries (as measured by antibodies against SARS-CoV-2) is markedly higher than in high-income countries but still far short of herd immunity.
-- Seroprevalence among older adults is broadly similar to that of younger age-groups.
-- Age-specific IFRs in developing countries are roughly twice those of high-income countries.
-- Population IFR in developing countries with satisfactory death reporting (based on UN/WHO data as of 2016) is ten times higher than in other developing countries.
-- These results underscore the urgency of disseminating vaccines to vulnerable people in developing countries.
+-	Age-stratified infection fatality rates (IFRs) of COVID-19 in developing countries are about twice those of high-income countries. 
+-	Seroprevalence (as measured by antibodies against SARS-CoV-2) is broadly similar across age cohorts, underscoring the challenges of protecting older age groups in developing countries. 
+-	Population IFR in developing countries is similar to that of high-income countries, because differences in population age structure are roughly offset by disparities in healthcare access as well as elevated infection rates among older age cohorts.
+-	These results underscore the urgency of disseminating vaccines throughout the developing world.
 
 # Figures
 
